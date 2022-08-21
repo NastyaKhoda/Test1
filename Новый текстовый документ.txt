@@ -1,0 +1,15 @@
+?utm_source=yandex&utm_medium=cpc&utm_campaign=zadvizhki_dn500_poisk_{campaign_id}&utm_content=var2_{ad_id}_{device_type}_{region_name}&utm_term={keyword}
+
+
+
+{param1}/{param2}/
+
+{param1}
+
+
+Добрый день! Проверяем работу форм на сайте. Были отправлены несколько писем со следующими именами:
+
+Если вы получили эти письма, перешлите, пожалуйста, каждое из них на почту 
+
+
+
